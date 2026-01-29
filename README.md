@@ -49,7 +49,7 @@
 <p>本アプリに関するお問い合わせは、以下にご連絡ください。</p>
 <p>
 ONESELF 運営事務局<br>
-Email: support@salon-oneself.com
+Email: info@salon-oneself.com
 </p>
 
 <h2>7. プライバシーポリシーの変更</h2>
